@@ -1,0 +1,25 @@
+# Raw datasets
+*.nc
+*.tif
+*.tiff
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Research paper drafts
+*.docx
+*.pdf
+
+# Nested experimental folder
+windd/
